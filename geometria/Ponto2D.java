@@ -1,4 +1,4 @@
-class Ponto2D extends Ponto1D {
+class Ponto2D extends Ponto1D implements Comparavel {
 
     protected double y;
     
